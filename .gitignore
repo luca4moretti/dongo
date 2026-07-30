@@ -1,0 +1,17 @@
+node_modules/
+
+coverage/
+
+storage/*.json
+
+exports/
+
+.env
+
+.vscode/
+
+.idea/
+
+.DS_Store
+
+Thumbs.db
